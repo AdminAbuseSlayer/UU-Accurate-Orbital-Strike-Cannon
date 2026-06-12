@@ -8,6 +8,8 @@ OSC (Orbital Strike Cannon) like UnstableSMP with rods like Wemmbu.
 
 Check out the modrinth page on the OSC (orbital strike cannon) https://modrinth.com/mod/uu-accurate-orbital-strike-cannon
 
+Github **Disclaimer**: [nothing yet]
+
 Commands:
 
 /osc nuke: **Nuke Shot**
