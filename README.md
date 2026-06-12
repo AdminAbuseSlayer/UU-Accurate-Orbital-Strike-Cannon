@@ -8,7 +8,7 @@ OSC (Orbital Strike Cannon) like UnstableSMP with rods like Wemmbu.
 
 Check out the modrinth page on the OSC (orbital strike cannon) https://modrinth.com/mod/uu-accurate-orbital-strike-cannon
 
-Github **Disclaimer**: [nothing yet]
+Github **Disclaimer**: since there are lots of mods, to find the mods open the mod loader folders (Fabric NeoForge) and find the mod on your MC version
 
 Commands:
 
