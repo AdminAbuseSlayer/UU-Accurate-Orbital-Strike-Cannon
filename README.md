@@ -2,7 +2,7 @@
 
 More MC Versions (1.21.x etc.) and mod loaders will be added in future updates.
 
-Flame's dogs and statis's will also be add in future updates.
+Flame's dogs and statis's will also be added in future updates.
 
 OSC (Orbital Strike Cannon) like UnstableSMP with rods like Wemmbu.
 
